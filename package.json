@@ -1,0 +1,14 @@
+{
+  "name": "Mizuxe",
+  "version": "1.0.0",
+  "description": "Landing page for Mizuxe",
+  "main": "index.js",
+  "scripts": {
+    "watch:scss": "node-sass --watch scss -o css"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
